@@ -13,7 +13,7 @@ your friendly neighborhood web developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarinavaii&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarinavaii&theme=buddhism&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sarinavaii&theme=onedark&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarinavaii&icon=5&color=1)](https://visitcount.itsvg.in)
