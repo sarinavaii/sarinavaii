@@ -1,8 +1,5 @@
-<h3 align="center">Greetings, fellow developers</h3>
-
-###
-
-<p align="center">I'm Salar, a frontend enthusiast with over 2 years of experience in the world of Next.js and React. JavaScript is my programming weapon of choice, and I take my craft seriously. Currently, I'm expanding my horizons by diving into backend development with Node.js and Express. It's a fascinating journey, and I'm committed to mastering this new frontier.</p>
+<h3 align="center">Hey there, fellow devs!</h3>
+<p align="center">I'm Salar. I've been building stuff with React and Next.js for a couple of years now, and JavaScript is my go-to language. Lately, I've been diving into backend development with Node.js and Express, and it's been an exciting ride. Still learning, still growing, and just enjoying the process!</p>
 
 ###
 
